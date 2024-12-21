@@ -1,0 +1,11 @@
+{
+  "name": "ronins-torrent",
+  "version": "1.0.0",
+  "description": "this just a torrent i coded to get a better understanding of torrents and networking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul",
+  "license": "ISC"
+}
